@@ -19,6 +19,7 @@ class PrioritySortStrategy(SortStrategy):
 
     def sort(self, tasks: list[Task]):
         pass
+    
 
 
 class DueDateSortStrategy(SortStrategy):
